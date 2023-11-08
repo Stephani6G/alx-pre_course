@@ -1,1 +1,1 @@
-Alx precourse repository for theonboarding session.
+Alx precourse, a repository for the onboarding session at ALX Africa/Holberton School.
